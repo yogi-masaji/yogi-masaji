@@ -21,7 +21,7 @@
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px" height="30px"> My GitHub History </h2> 
 <div align="center">
-  <a href="https://github.com/tranthaituananh">
+  <a href="https://github.com/yogi-masaji">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=yogi-masaji&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi-masaji&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
   </a>
