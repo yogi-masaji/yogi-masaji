@@ -15,15 +15,14 @@
  
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/yogi-masaji/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/yogi.msj/)  &nbsp; 
-<a href="mailto:yogimasaji01@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/731875032137203773)  &nbsp; 
   
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px" height="30px"> My GitHub History </h2> 
 <div align="center">
   <a href="https://github.com/yogi-masaji">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=yogi-masaji&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi-masaji&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogi-masaji&show_icons=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi-masaji&layout=compact&theme=dracula" />
   </a>
 </div>
 
